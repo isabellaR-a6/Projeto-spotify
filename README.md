@@ -4,7 +4,7 @@ Obrigada por visitar o meu GitHub ❤️ Espero que gostem! 😊
 
 Seguem os Modelos:
 
-<img width="732" height="675" alt="image" src="https://github.com/user-attachments/assets/5d065e19-944b-44d7-983a-87a90b8a6a68" />
+<img width="565" height="524" alt="image" src="https://github.com/user-attachments/assets/765477b1-5c13-42bd-9457-c8ecaa069cc6" />
 
 
 1- Imagem de Login e tela Principal
