@@ -13,3 +13,7 @@ Seguem os Modelos:
 
 
 2- Imagem do play de música 
+
+
+- Concluindo o Figma é uma plataforma bem completa, com opções de desing muito legais de se mexer.
+- E ajudou muito na compreensão das experiências do usuário UI/UX
